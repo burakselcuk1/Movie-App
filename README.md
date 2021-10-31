@@ -1,6 +1,6 @@
 # Movie-App
 Hi, My new project is Movie App. You can check populer movies on this app and also if you click any movie, you can learn more information about your's movie. You can save your favorite movies to watch later.
-- I used Retrofit for get data from server
+- I used Retrofi2 for get data from server
 - Recyclerview for data display
 - MVVM Architecture
 - Glide Library for display images
